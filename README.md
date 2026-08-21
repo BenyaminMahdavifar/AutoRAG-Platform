@@ -95,5 +95,3 @@ npm run clean
 ## Security
 Do not commit active API keys. Use connection profiles and `.env` for managing secrets locally. The application manages local runtime state; ensure `.env` and `workspace/` remain ignored in version control.
 
-## License
-MIT License.
