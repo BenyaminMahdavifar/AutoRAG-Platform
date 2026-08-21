@@ -1,0 +1,41 @@
+node_modules/
+build/
+dist/
+coverage/
+.vite/
+.DS_Store
+Thumbs.db
+*.log
+logs/
+.env*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+.venv/
+venv/
+env/
+ENV/
+
+# App Workspace & Runtime Data
+workspace/
+reports/
+exports/
+
+# ML / Models
+.cache/
+huggingface/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
